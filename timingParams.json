@@ -1,0 +1,80 @@
+[
+    [
+        "Ultimate Solve.Time complexities and Efficiency.full credit: algorithm complexities.that canMake is linear",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 18
+        }
+    ],
+    [
+        "Ultimate Solve.Time complexities and Efficiency.full credit: algorithm complexities.that validMoves is linear",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 11
+        }
+    ],
+    [
+        "Ultimate Solve.Time complexities and Efficiency.full credit: algorithm complexities.that powerset is non-poly",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 19
+        }
+    ],
+    [
+        "Ultimate Solve.Time complexities and Efficiency.full credit: algorithm complexities.that greedyPlay is polynomial",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 19
+        }
+    ],
+    [
+        "Ultimate Solve.Time complexities and Efficiency.full credit: benchmarking gameplay algorithms.that bestPlay finishes in less than 3 minutes (CLOSEFLOOR x 2.5)",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 10
+        }
+    ],
+    [
+        "Ultimate Solve.Time complexities and Efficiency.full credit: benchmarking gameplay algorithms.that bestPlay finishes in less than 10 seconds (CLOSEFLOOR x 3)",
+        {
+            "benchMaxRunTime": 30,
+            "extendRange": false,
+            "minRuntime": 0.5,
+            "maxSteps": 20,
+            "maxBlowup": -1,
+            "maxTimeout": 5,
+            "showSteps": false,
+            "initSteps": 10
+        }
+    ]
+]
